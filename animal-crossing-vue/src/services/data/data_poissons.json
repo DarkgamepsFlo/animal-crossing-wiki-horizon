@@ -1,0 +1,443 @@
+{
+    "poisson1": {
+        "nom": "Anchois",
+        "photo": "Anchois",
+        "rareté": "rare",
+        "période": "toute l'année",
+        "heure": "4h-21h",
+        "lieu": "océan",
+        "prix": "200 clochettes",
+        "taille": "petite"
+    },
+    "poisson2": {
+        "nom": "Arapaïma",
+        "photo": "Arapaïma",
+        "rareté": "très rare",
+        "période": "juin-septembre",
+        "heure": "16h-9h",
+        "lieu": "rivière",
+        "prix": "10 000 clochettes",
+        "taille": "énorme"
+    },
+    "poisson3": {
+        "nom": "Arowana",
+        "photo": "Arowana",
+        "rareté": "très rare",
+        "période": "juin-septembre",
+        "heure": "16h-9h",
+        "lieu": "rivière",
+        "prix": "10 000 clochettes",
+        "taille": "très grande"
+    },
+    "poisson4": {
+        "nom": "Ayu",
+        "photo": "Ayu",
+        "rareté": "Commun",
+        "période": "juillet-septembre",
+        "heure": "toute la journée",
+        "lieu": "rivière",
+        "prix": "900 clochettes",
+        "taille": "petite/moyenne"
+    },
+    "poisson5": {
+        "nom": "Bar",
+        "photo": "Bar",
+        "rareté": "Commun",
+        "période": "toute l'année",
+        "heure": "toute la journée",
+        "lieu": "rivière",
+        "prix": "400 clochettes",
+        "taille": "grande"
+    },
+    "poisson6": {
+        "nom": "Bar Commun",
+        "photo": "Bar_Commun",
+        "rareté": "Commun",
+        "période": "toute l'année",
+        "heure": "toute la journée",
+        "lieu": "océan",
+        "prix": "400 clochettes",
+        "taille": "très grande"
+    },
+    "poisson7": {
+        "nom": "Bichir",
+        "photo": "Bichir",
+        "rareté": "rare",
+        "période": "juin-septembre",
+        "heure": "21h-4h",
+        "lieu": "rivière",
+        "prix": "4 000 clochettes",
+        "taille": "grande"
+    },
+    "poisson8": {
+        "nom": "Bouvière",
+        "photo": "Bouviere",
+        "rareté": "Commun",
+        "période": "novembre-mars",
+        "heure": "toute la journée",
+        "lieu": "rivière",
+        "prix": "900 clochettes",
+        "taille": "minuscule"
+    },
+    "poisson9": {
+        "nom": "Brochet",
+        "photo": "Brochet",
+        "rareté": "rare",
+        "période": "septembre-décembre",
+        "heure": "toute la journée",
+        "lieu": "rivière",
+        "prix": "1 800 clochettes",
+        "taille": "moyenne/grande"
+    },
+    "poisson10": {
+        "nom": "Calmar",
+        "photo": "Calmar",
+        "rareté": "rare",
+        "période": "décembre-août",
+        "heure": "toute la journée",
+        "lieu": "océan",
+        "prix": "500 clochettes",
+        "taille": "moyenne"
+    },
+    "poisson11": {
+        "nom": "Carangue grosse tête",
+        "photo": "Carangue_grosse_tete",
+        "rareté": "rare",
+        "période": "mai-octobre",
+        "heure": "toute la journée",
+        "lieu": "océan (ponton)",
+        "prix": "4 500 clochettes",
+        "taille": "très grande"
+    },
+    "poisson12": {
+        "nom": "Carassin",
+        "photo": "Carassin",
+        "rareté": "Commun",
+        "période": "toute l'année",
+        "heure": "toute la journée",
+        "lieu": "rivière",
+        "prix": "160 clochettes",
+        "taille": "petite"
+    },
+    "poisson13": {
+        "nom": "Cardeau",
+        "photo": "Cardeau",
+        "rareté": "rare",
+        "période": "toute l'année",
+        "heure": "toute la journée",
+        "lieu": "océan",
+        "prix": "800 clochettes",
+        "taille": "très grande"
+    },
+    "poisson14": {
+        "nom": "Carpe",
+        "photo": "Carpe",
+        "rareté": "Commun",
+        "période": "toute l'année",
+        "heure": "toute la journée",
+        "lieu": "étang",
+        "prix": "300 clochettes",
+        "taille": "moyenne"
+    },
+    "poisson15": {
+        "nom": "Carpe koï",
+        "photo": "Carpe_koï",
+        "rareté": "rare",
+        "période": "toute l'année",
+        "heure": "16h-9h",
+        "lieu": "étang",
+        "prix": "4 000 clochettes",
+        "taille": "moyenne"
+    },
+    "poisson16": {
+        "nom": "Chevaine",
+        "photo": "Chevaine",
+        "rareté": "Commun",
+        "période": "toute l'année",
+        "heure": "9h-16h",
+        "lieu": "rivière",
+        "prix": "200 clochettes",
+        "taille": "minuscule"
+    },
+    "poisson17": {
+        "nom": "Chinchard",
+        "photo": "Chinchard",
+        "rareté": "Commun",
+        "période": "toute l'année",
+        "heure": "toute la journée",
+        "lieu": "océan",
+        "prix": "150 clochettes",
+        "taille": "petite"
+    },
+    "poisson18": {
+        "nom": "Clione",
+        "photo": "Clione",
+        "rareté": "Commun",
+        "période": "décembre-mars",
+        "heure": "toute la journée",
+        "lieu": "océan",
+        "prix": "1 000 clochettes",
+        "taille": "minuscule"
+    },
+    "poisson19": {
+        "nom": "Combattant",
+        "photo": "Combattant",
+        "rareté": "rare",
+        "période": "mai-octobre",
+        "heure": "9h-16h",
+        "lieu": "rivière",
+        "prix": "2 500 clochettes",
+        "taille": "petite"
+    },
+    "poisson20": {
+        "nom": "Coryphène",
+        "photo": "Coryphene",
+        "rareté": "rare",
+        "période": "mai-octobre",
+        "heure": "toute la journée",
+        "lieu": "océan (ponton)",
+        "prix": "6 000 clochettes",
+        "taille": "très grande"
+    },
+    "poisson21": {
+        "nom": "Crabe chinois",
+        "photo": "Crabe_chinois",
+        "rareté": "rare",
+        "période": "septembre-novembre",
+        "heure": "16h-9h",
+        "lieu": "rivière",
+        "prix": "2 000 clochettes",
+        "taille": "petite"
+    },
+    "poisson22": {
+        "nom": "Crapet",
+        "photo": "Crapet",
+        "rareté": "Commun",
+        "période": "toute l'année",
+        "heure": "9h-16h",
+        "lieu": "rivière",
+        "prix": "180 clochettes",
+        "taille": "petite"
+    },
+    "poisson23": {
+        "nom": "Cyprin doré",
+        "photo": "Cyprin_dore",
+        "rareté": "très rare",
+        "période": "toute l'année",
+        "heure": "9h-16h",
+        "lieu": "étang",
+        "prix": "1 300 clochettes",
+        "taille": "minuscule"
+    },
+    "poisson24": {
+        "nom": "Coelacanthe",
+        "photo": "Coelacanthe",
+        "rareté": "très rare",
+        "période": "toute l'année",
+        "heure": "toute la journée",
+        "lieu": "océan (pluie/neige/appât)",
+        "prix": "15 000 clochettes",
+        "taille": "énorme"
+    },
+    "poisson25": {
+        "nom": "Dai yu",
+        "photo": "Dai_yu",
+        "rareté": "très rare",
+        "période": "décembre-mars",
+        "heure": "16h-9h",
+        "lieu": "rivière (falaise)",
+        "prix": "15 000 clochettes",
+        "taille": "énorme"
+    },
+    "poisson26": {
+        "nom": "Dorado",
+        "photo": "Dorado",
+        "rareté": "très rare",
+        "période": "juin-septembre",
+        "heure": "4h-21h",
+        "lieu": "rivière",
+        "prix": "15 000 clochettes",
+        "taille": "très grande"
+    },
+    "poisson27": {
+        "nom": "Ecrevisse",
+        "photo": "Ecrevisse",
+        "rareté": "Commun",
+        "période": "avril-septembre",
+        "heure": "toute la journée",
+        "lieu": "étang",
+        "prix": "200 clochettes",
+        "taille": "petite"
+    },
+    "poisson28": {
+        "nom": "Eperlan",
+        "photo": "Eperlan",
+        "rareté": "Commun",
+        "période": "décembre-février",
+        "heure": "toute la journée",
+        "lieu": "rivière",
+        "prix": "320 clochettes",
+        "taille": "petite"
+    },
+    "poisson29": {
+        "nom": "Esturgeon",
+        "photo": "Esturgeon",
+        "rareté": "très rare",
+        "période": "septembre-mars",
+        "heure": "toute la journée",
+        "lieu": "rivière (embouchure)",
+        "prix": "10 000 clochettes",
+        "taille": "énorme"
+    },
+    "poisson30": {
+        "nom": "Fondule barré",
+        "photo": "Fondule_barre",
+        "rareté": "Commun",
+        "période": "avril-août",
+        "heure": "toute la journée",
+        "lieu": "étang",
+        "prix": "300 clochettes",
+        "taille": "minuscule"
+    },
+    "poisson31": {
+        "nom": "Gar",
+        "photo": "Gar",
+        "rareté": "très rare",
+        "période": "juin-septembre",
+        "heure": "16h-9h",
+        "lieu": "étang",
+        "prix": "6 000 clochettes",
+        "taille": "énorme"
+    },
+    "poisson32": {
+        "nom": "Gobie d'eau douce",
+        "photo": "Gobie_d'eau_douce",
+        "rareté": "rare",
+        "période": "toute l'année",
+        "heure": "16h-9h",
+        "lieu": "rivière",
+        "prix": "400 clochettes",
+        "taille": "petite"
+    },
+    "poisson33": {
+        "nom": "Grand requin blanc",
+        "photo": "Grand_requin_blanc",
+        "rareté": "très rare",
+        "période": "juin-septembre",
+        "heure": "16h-9h",
+        "lieu": "océan",
+        "prix": "15 000 clochettes",
+        "taille": "énorme (aileron)"
+    },
+    "poisson34": {
+        "nom": "Grenouille",
+        "photo": "Grenouille",
+        "rareté": "Commun",
+        "période": "mai-août",
+        "heure": "toute la journée",
+        "lieu": "étang",
+        "prix": "120 clochettes",
+        "taille": "petite"
+    },
+    "poisson35": {
+        "nom": "Guppy",
+        "photo": "Guppy",
+        "rareté": "Commun",
+        "période": "avril-novembre",
+        "heure": "9h-16h",
+        "lieu": "rivière",
+        "prix": "1 300 clochettes",
+        "taille": "minuscule"
+    },
+    "poisson36": {
+        "nom": "Hippocampe",
+        "photo": "Hippocampe",
+        "rareté": "Commun",
+        "période": "avril-novembre",
+        "heure": "toute la journée",
+        "lieu": "océan",
+        "prix": "1 100 clochettes",
+        "taille": "minuscule"
+    },
+    "poisson37": {
+        "nom": "Ishidai",
+        "photo": "Ishidai",
+        "rareté": "rare",
+        "période": "mars-novembre",
+        "heure": "toute la journée",
+        "lieu": "océan",
+        "prix": "5 000 clochettes",
+        "taille": "moyenne"
+    },
+    "poisson38": {
+        "nom": "Limande",
+        "photo": "Limande",
+        "rareté": "Commun",
+        "période": "octobre-avril",
+        "heure": "toute la journée",
+        "lieu": "océan",
+        "prix": "300 clochettes",
+        "taille": "moyenne"
+    },
+    "poisson39": {
+        "nom": "Loche d'étang",
+        "photo": "Loche_d'etang",
+        "rareté": "Commun",
+        "période": "mars-mai",
+        "heure": "toute la journée",
+        "lieu": "rivière",
+        "prix": "400 clochettes",
+        "taille": "petite/moyenne"
+    },
+    "poisson40": { // Flo : Exemple
+        "nom": "Lune de mer",
+        "photo": "Lune_de_mer",
+        "rareté": "rare",
+        "période": ["Juillet", "Septembre"],
+        "heure": ["04:00:00", "21:00:00"],
+        "lieu": "océan",
+        "prix": 4000,
+        "taille": "énorme",
+        "aileron": true 
+    },
+    "poisson41": {
+        "nom": "Macropina",
+        "photo": "Macropina",
+        "rareté": "très rare",
+        "période": "toute l'année",
+        "heure": "21h-4h",
+        "lieu": "océan",
+        "prix": "15 000 clochettes",
+        "taille": "petite"
+    },
+    "poisson42": {
+        "nom": "Marlin bleu",
+        "photo": "Marlin_bleu",
+        "rareté": "très rare",
+        "période": "juillet-septembre et novembre-avril",
+        "heure": "toute la journée",
+        "lieu": "océan (ponton)",
+        "prix": "10 000 clochettes",
+        "taille": "énorme"
+    },
+    "poisson43": {
+        "nom": "Murène",
+        "photo": "Murene",
+        "rareté": "rare",
+        "période": "août-octobre",
+        "heure": "toute la journée",
+        "lieu": "océan",
+        "prix": "2 000 clochettes",
+        "taille": "fine"
+    },
+    "poisson44": {
+        "nom": "Coryphène",
+        "photo": "Coryphene",
+        "rareté": "rare",
+        "période": "mai-octobre",
+        "heure": "toute la journée",
+        "lieu": "océan (ponton)",
+        "prix": "6 000 clochettes",
+        "taille": "très grande"
+    }
+}

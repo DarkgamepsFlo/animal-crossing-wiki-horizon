@@ -1,0 +1,724 @@
+{
+    "insecte1": {
+        "nom": "Abeille naine",
+        "photo": "Abeille_naine",
+        "rareté": "Commun",
+        "période": ["Mars", "Avril", "Mai", "Juin", "Juillet"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Ciel",
+        "prix": 200
+    },
+    "insecte2": {
+        "nom": "Acrida cinerea",
+        "photo": "Acrida_cinerea",
+        "rareté": "Commun",
+        "période": ["Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre"],
+        "heure": ["08:00:00", "19:00:00"],
+        "lieu": "Sol",
+        "prix": 200
+    },
+    "insecte3": {
+        "nom": "Agrias",
+        "photo": "Agrias",
+        "rareté": "Rare",
+        "période": ["Avril", "Mai", "Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Ciel",
+        "prix": 3000
+    },
+    "insecte4": {
+        "nom": "Anax napolitain",
+        "photo": "Anax_napolitain",
+        "rareté": "Commun",
+        "période": ["Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Ciel",
+        "prix": 230
+    },
+    "insecte5": {
+        "nom": "Araignée",
+        "photo": "Araignee",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": ["19:00:00", "08:00:00"],
+        "lieu": "Arbres",
+        "prix": 600
+    },
+    "insecte6": {
+        "nom": "Attacus Atlas",
+        "photo": "Attacus_Atlas",
+        "rareté": "Rare",
+        "période": ["Avril", "Mai", "Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["19:00:00", "04:00:00"],
+        "lieu": ["Arbres", "Palmiers"],
+        "prix": 3000
+    },
+    "insecte7": {
+        "nom": "Bernard-l'ermite",
+        "photo": "Bernard-l_ermite",
+        "rareté": "Rare",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": ["19:00:00", "08:00:00"],
+        "lieu": "Plage",
+        "prix": 1000
+    },
+    "insecte8": {
+        "nom": "Bousier",
+        "photo": "Bousier",
+        "rareté": "Rare",
+        "période": ["Décembre", "Janvier", "Février"],
+        "heure": "All",
+        "lieu": "Boules de neige",
+        "prix": 2500
+    },
+    "insecte9": {
+        "nom": "Bupreste",
+        "photo": "Bupreste",
+        "rareté": "Commun",
+        "période": ["Avril", "Mai", "Juin", "Juillet", "Août"],
+        "heure": "All",
+        "lieu": "Souches d'arbres",
+        "prix": 2400
+    },
+    "insecte10": {
+        "nom": "Capricorne des agrumes",
+        "photo": "Capricorne_des_agrumes",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": "All",
+        "lieu": "Souches d'arbres",
+        "prix": 350
+    },
+    "insecte11": {
+        "nom": "Catacanthus",
+        "photo": "Catacanthus",
+        "rareté": "Commun",
+        "période": ["Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre"],
+        "heure": ["19:00:00", "08:00:00"],
+        "lieu": "Fleurs",
+        "prix": 1000
+    },
+    "insecte12": {
+        "nom": "Charançon bleu",
+        "photo": "Charancon_bleu",
+        "rareté": "Rare",
+        "période": ["Juillet", "Août"],
+        "heure": "All",
+        "lieu": "Palmiers",
+        "prix": 800
+    },
+    "insecte13": {
+        "nom": "Chrysiridia rhipheus",
+        "photo": "Chrysiridia_rhipheus",
+        "rareté": "Rare",
+        "période": ["Avril", "Mai", "Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["08:00:00", "16:00:00"],
+        "lieu": "Ciel",
+        "prix": 2500
+    },
+    "insecte14": {
+        "nom": "Cicindèle",
+        "photo": "Cicindele",
+        "rareté": "Rare",
+        "période": ["Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre"],
+        "heure": "All",
+        "lieu": "Sol",
+        "prix": 1500
+    },
+    "insecte15": {
+        "nom": "Cigale cercope",
+        "photo": "Cigale_cercope",
+        "rareté": "Commun",
+        "période": ["Juillet", "Août"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Arbres",
+        "prix": 250
+    },
+    "insecte16": {
+        "nom": "Cigale cicadelle",
+        "photo": "Cigale_cicadelle",
+        "rareté": "Commun",
+        "période": ["Août", "Septembre"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Arbres",
+        "prix": 400
+    },
+    "insecte17": {
+        "nom": "Cigale géante",
+        "photo": "Cigale_geante",
+        "rareté": "Commun",
+        "période": ["Juillet", "Août"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Arbres",
+        "prix": 500
+    },
+    "insecte18": {
+        "nom": "Cigale higurashi",
+        "photo": "Cigale_higurashi",
+        "rareté": "Commun",
+        "période": ["Juillet", "Août"],
+        "heure": ["04:00:00", "08:00:00", "16:00:00", "19:00:00"],
+        "lieu": "Arbres",
+        "prix": 550
+    },
+    "insecte19": {
+        "nom": "Cigale hyalessa",
+        "photo": "Cigale_hyalessa",
+        "rareté": "Commun",
+        "période": ["Juillet", "Août"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Arbres",
+        "prix": 300
+    },
+    "insecte20": {
+        "nom": "Citrin",
+        "photo": "Citrin",
+        "rareté": "Commun",
+        "période": ["Mars", "Avril", "Mai", "Juin", "Septembre", "Octobre"],
+        "heure": ["04:00:00", "19:00:00"],
+        "lieu": "Ciel",
+        "prix": 160
+    },
+    "insecte21": {
+        "nom": "Cloporte",
+        "photo": "Cloporte",
+        "rareté": "Commun",
+        "période": ["Septembre", "Octobre", "Novembre", "Décembre", "Janvier", "Février", "Mars", "Avril", "Mai", "Juin"],
+        "heure": ["23:00:00", "16:00:00"],
+        "lieu": "Rochers",
+        "prix": 250
+    },
+    "insecte22": {
+        "nom": "Coccinelle",
+        "photo": "Coccinelle",
+        "rareté": "Commun",
+        "période": ["Mars", "Avril", "Mai", "Juin", "Octobre"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Fleurs",
+        "prix": 200
+    },
+    "insecte23": {
+        "nom": "Cordulégastre",
+        "photo": "Cordulegastre",
+        "rareté": "Commun",
+        "période": ["Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Ciel",
+        "prix": 4500
+    },
+    "insecte24": {
+        "nom": "Criquet",
+        "photo": "Criquet",
+        "rareté": "Commun",
+        "période": ["Août", "Septembre", "Octobre", "Novembre"],
+        "heure": ["08:00:00", "19:00:00"],
+        "lieu": "Sol",
+        "prix": 400
+    },
+    "insecte25": {
+        "nom": "Criquet pèlerin",
+        "photo": "Criquet_pelerin",
+        "rareté": "Commun",
+        "période": ["Août", "Septembre", "Octobre", "Novembre"],
+        "heure": ["08:00:00", "19:00:00"],
+        "lieu": "Sol",
+        "prix": 600
+    },
+    "insecte26": {
+        "nom": "Demoiselle",
+        "photo": "Demoiselle",
+        "rareté": "Commun",
+        "période": ["Novembre", "Décembre", "Janvier", "Février"],
+        "heure": "All",
+        "lieu": "Ciel",
+        "prix": 500
+    },
+    "insecte27": {
+        "nom": "Dytique",
+        "photo": "Dytique",
+        "rareté": "Commun",
+        "période": ["Mai", "Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["08:00:00", "19:00:00"],
+        "lieu": "Surface de l'eau",
+        "prix": 800
+    },
+    "insecte28": {
+        "nom": "Escargot",
+        "photo": "Escargot",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": "All",
+        "lieu": ["Buissons", "Rochers(pluie)"],
+        "prix": 250
+    },
+    "insecte29": {
+        "nom": "Fourmi",
+        "photo": "Fourmi",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": "All",
+        "lieu": "Navets pourris",
+        "prix": 80
+    },
+    "insecte30": {
+        "nom": "Geotrupidae",
+        "photo": "Geotrupidae",
+        "rareté": "Commun",
+        "période": ["Juillet", "Août", "Septembre"],
+        "heure": "All",
+        "lieu": "Sol",
+        "prix": 300
+    },
+    "insecte31": {
+        "nom": "Grand planeur",
+        "photo": "Grand_planeur",
+        "rareté": "Rare",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": ["08:00:00", "19:00:00"],
+        "lieu": "Ciel",
+        "prix": 1000
+    },
+    "insecte32": {
+        "nom": "Graphium sarpedon",
+        "photo": "Graphium_sarpedon",
+        "rareté": "Commun",
+        "période": ["Avril", "Mai", "Juin", "Juillet", "Août"],
+        "heure": ["04:00:00", "19:00:00"],
+        "lieu": "Ciel",
+        "prix": 300
+    },
+    "insecte33": {
+        "nom": "Grillon des prés",
+        "photo": "Grillon_des_pres",
+        "rareté": "Commun",
+        "période": ["Septembre", "Octobre", "Novembre"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Sol",
+        "prix": 130
+    },
+    "insecte34": {
+        "nom": "Grillon du Midi",
+        "photo": "Grillon_du_Midi",
+        "rareté": "Commun",
+        "période": ["Septembre", "Octobre"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Sol",
+        "prix": 430
+    },
+    "insecte35": {
+        "nom": "Guêpe",
+        "photo": "Guepe",
+        "rareté": "Rare",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": "All",
+        "lieu": "Arbres",
+        "prix": 2500
+    },
+    "insecte36": {
+        "nom": "Ligie",
+        "photo": "Ligie",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": "All",
+        "lieu": "Plage",
+        "rochers": true,
+        "prix": 200
+    },
+    "insecte37": {
+        "nom": "Lucane cerf-volant",
+        "photo": "Lucane_cerf-volant",
+        "rareté": "Très rare",
+        "période": ["Juillet", "Août"],
+        "heure": ["23:00:00", "08:00:00"],
+        "lieu": "Arbres",
+        "prix": 10000
+    },
+    "insecte38": {
+        "nom": "Lucane copris irisé",
+        "photo": "Lucane_copris_irise",
+        "rareté": "Très rare",
+        "période": ["Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["19:00:00", "08:00:00"],
+        "lieu": "Arbres",
+        "prix": 6000
+    },
+    "insecte39": {
+        "nom": "Lucane cyclommatus",
+        "photo": "Lucane_cyclommatus",
+        "rareté": "Très rare",
+        "période": ["Juillet", "Août"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Palmiers",
+        "prix": 8000
+    },
+    "insecte40": {
+        "nom": "Lucane girage",
+        "photo": "Lucane_girafe",
+        "rareté": "Très rare",
+        "période": ["Juillet", "Août"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Palmiers",
+        "prix": 12000
+    },
+    "insecte41": {
+        "nom": "Lucane inclinatus",
+        "photo": "Lucane_inclinatus",
+        "rareté": "Rare",
+        "période": ["Juillet", "Août"],
+        "heure": "All",
+        "lieu": "Arbres",
+        "prix": 2000
+    },
+    "insecte42": {
+        "nom": "Lucane lamprima",
+        "photo": "Lucane_lamprima",
+        "rareté": "Très rare",
+        "période": ["Juillet", "Août"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Palmiers",
+        "prix": 12000
+    },
+    "insecte43": {
+        "nom": "Lucane miyama",
+        "photo": "Lucane_miyama",
+        "rareté": "Rare",
+        "période": ["Juillet", "Août"],
+        "heure": "All",
+        "lieu": "Arbres",
+        "prix": 1000
+    },
+    "insecte44": {
+        "nom": "Luciole",
+        "photo": "Luciole",
+        "rareté": "Commun",
+        "période": ["Juin"],
+        "heure": ["19:00:00", "04:00:00"],
+        "lieu": "Près de l'eau",
+        "prix": 300
+    },
+    "insecte45": {
+        "nom": "Machaon",
+        "photo": "Machaon",
+        "rareté": "Commun",
+        "période": ["Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["04:00:00", "19:00:00"],
+        "lieu": "Ciel",
+        "prix": 240
+    },
+    "insecte46": {
+        "nom": "Mante orchidée",
+        "photo": "Mante_orchidee",
+        "rareté": "Rare",
+        "période": ["Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Fleurs blanches",
+        "prix": 2400
+    },
+    "insecte47": {
+        "nom": "Mante religieuse",
+        "photo": "Mante_religieuse",
+        "rareté": "Commun",
+        "période": ["Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Fleurs",
+        "prix": 430
+    },
+    "insecte48": {
+        "nom": "Mille-pattes",
+        "photo": "Mille-pattes",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": ["16:00:00", "23:00:00"],
+        "lieu": "Rochers",
+        "prix": 300
+    },
+    "insecte49": {
+        "nom": "Monarque",
+        "photo": "Monarque",
+        "rareté": "Commun",
+        "période": ["Septembre", "Octobre", "Novembre"],
+        "heure": ["04:00:00", "17:00:00"],
+        "lieu": "Ciel",
+        "prix": 140
+    },
+    "insecte50": {
+        "nom": "Mormolyce",
+        "photo": "Mormolyce",
+        "rareté": "Commun",
+        "période": ["Mai", "Juin", "Septembre", "Octobre", "Novembre"],
+        "heure": "All",
+        "lieu": "Souches d'arbres",
+        "prix": 450
+    },
+    "insecte51": {
+        "nom": "Morpho bleu",
+        "photo": "Morpho_bleu",
+        "rareté": "Rare",
+        "période": ["Janvier", "Février", "Mars", "Juin", "Juillet", "Août", "Septembre", "Décembre"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Ciel",
+        "prix": 4000
+    },
+    "insecte52": {
+        "nom": "Mouche",
+        "photo": "Mouche",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": "All",
+        "lieu": ["Déchets", "Navets pourris"],
+        "prix": 60
+    },
+    "insecte53": {
+        "nom": "Moustique",
+        "photo": "Moustique",
+        "rareté": "Commun",
+        "période": ["Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["17:00:00", "04:00:00"],
+        "lieu": "Ciel",
+        "prix": 130
+    },
+    "insecte54": {
+        "nom": "Mue de cigale",
+        "photo": "Mue_de_cigale",
+        "rareté": "Rare",
+        "période": ["Juillet", "Août"],
+        "heure": "All",
+        "lieu": "Arbres",
+        "prix": 10
+    },
+    "insecte55": {
+        "nom": "Papilio bianor",
+        "photo": "Papilio_bianor",
+        "rareté": "Rare",
+        "période": ["Mars", "Avril", "Mai", "Juin"],
+        "heure": ["04:00:00", "19:00:00"],
+        "lieu": "Ciel",
+        "fleurs hybrides noires, violettes et bleues": true,
+        "prix": 2500
+    },
+    "insecte56": {
+        "nom": "Papillon de nuit",
+        "photo": "Papillon_de_nuit",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": ["19:00:00", "04:00:00"],
+        "lieu": "Lumières",
+        "prix": 130
+    },
+    "insecte57": {
+        "nom": "Patineur",
+        "photo": "Patineur",
+        "rareté": "Commun",
+        "période": ["Mai", "Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["08:00:00", "19:00:00"],
+        "lieu": "Surface de l'eau",
+        "prix": 130
+    },
+    "insecte58": {
+        "nom": "Phasme",
+        "photo": "Phasme",
+        "rareté": "Commun",
+        "période": ["Juillet", "Août", "Septembre", "Octobre", "Novembre"],
+        "heure": ["04:00:00", "08:00:00", "17:00:00", "19:00:00"],
+        "lieu": "Arbres",
+        "prix": 600
+    },
+    "insecte59": {
+        "nom": "Phyllie",
+        "photo": "Phyllie",
+        "rareté": "Commun",
+        "période": ["Juillet", "Août", "Septembre"],
+        "heure": "All",
+        "lieu": "Sol",
+        "prix": 600
+    },
+    "insecte60": {
+        "nom": "Piéride de la rave",
+        "photo": "Pieride_de_la_rave",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": ["04:00:00", "19:00:00"],
+        "lieu": "Ciel",
+        "prix": 160
+    },
+    "insecte61": {
+        "nom": "Pseudotorynorrhina",
+        "photo": "Pseudotorynorrhina",
+        "rareté": "Commun",
+        "période": ["Juin", "Juillet", "Août"],
+        "heure": "All",
+        "lieu": "Arbres",
+        "prix": 200
+    },
+    "insecte62": {
+        "nom": "Psyché",
+        "photo": "Psyche",
+        "rareté": "Rare",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+        "heure": "All",
+        "lieu": "Arbres",
+        "prix": 600
+    },
+    "insecte63": {
+        "nom": "Puce",
+        "photo": "Puce",
+        "rareté": "Commun",
+        "période": ["Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre"],
+        "heure": "All",
+        "lieu": "Villageois",
+        "prix": 70
+    },
+    "insecte64": {
+        "nom": "Punaise",
+        "photo": "Punaise",
+        "rareté": "Commun",
+        "période": ["Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre"],
+        "heure": "All",
+        "lieu": "Fleurs",
+        "prix": 120
+    },
+    "insecte65": {
+        "nom": "Punaise d'eau géante",
+        "photo": "Punaise_d_eau_geante",
+        "rareté": "Rare",
+        "période": ["Avril", "Mai", "Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["19:00:00", "08:00:00"],
+        "lieu": "Surface de l'eau",
+        "prix": 2000
+    },
+    "insecte66": {
+        "nom": "Rosalia batesi",
+        "photo": "Rosalia_batesi",
+        "rareté": "Rare",
+        "période": ["Mai", "Juin", "Juillet", "Août", "Septembre"],
+        "heure": "All",
+        "lieu": "Souches d'arbres",
+        "prix": 3000
+    },
+    "insecte67": {
+        "nom": "Sasakia charonda",
+        "photo": "Sasakia_charonda",
+        "rareté": "Commun",
+        "période": ["Mai", "Juin", "Juillet", "Août"],
+        "heure": ["04:00:00", "19:00:00"],
+        "lieu": "Ciel",
+        "prix": 3000
+    },
+    "insecte68": {
+        "nom": "Sauterelle",
+        "photo": "Sauterelle",
+        "rareté": "Commun",
+        "période": ["Juillet", "Août", "Septembre"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Sol",
+        "prix": 160
+    },
+    "insecte69": {
+        "nom": "Scarabée",
+        "photo": "Scarabee",
+        "rareté": "Très rare",
+        "période": ["Juillet", "Août"],
+        "heure": ["23:00:00", "08:00:00"],
+        "lieu": "Arbres",
+        "prix": 10000
+    },
+    "insecte70": {
+        "nom": "Scarabée Atlas",
+        "photo": "Scarabee_Atlas",
+        "rareté": "Très rare",
+        "période": ["Juillet", "Août"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Palmiers",
+        "prix": 8000
+    },
+    "insecte71": {
+        "nom": "Scarabée éléphant",
+        "photo": "Scarabee_elephant",
+        "rareté": "Très rare",
+        "période": ["Juillet", "Août"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Palmiers",
+        "prix": 8000
+    },
+    "insecte72": {
+        "nom": "Scarabée Goliath",
+        "photo": "Scarabee_Goliath",
+        "rareté": "Très rare",
+        "période": ["Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Palmiers",
+        "prix": 8000
+    },
+    "insecte73": {
+        "nom": "Scarabée Hercule",
+        "photo": "Scarabee_Hercule",
+        "rareté": "Très rare",
+        "période": ["Juillet", "Août"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Palmiers",
+        "prix": 12000
+    },
+    "insecte74": {
+        "nom": "Scarabée kabuto",
+        "photo": "Scarabee_kabuto",
+        "rareté": "Très rare",
+        "période": ["Juillet", "Août"],
+        "heure": ["17:00:00", "08:00:00"],
+        "lieu": "Arbres",
+        "prix": 1350
+    },
+    "insecte75": {
+        "nom": "Scorpion",
+        "photo": "Scorpion",
+        "rareté": "Très rare",
+        "période": ["Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre"],
+        "heure": ["19:00:00", "04:00:00"],
+        "lieu": "Sol",
+        "prix": 8000
+    },
+    "insecte76": {
+        "nom": "Sympetrum",
+        "photo": "Sympetrum",
+        "rareté": "Commun",
+        "période": ["Septembre", "Octobre"],
+        "heure": ["08:00:00", "19:00:00"],
+        "lieu": "Ciel",
+        "prix": 180
+    },
+    "insecte77": {
+        "nom": "Tarentule",
+        "photo": "Tarentule",
+        "rareté": "Très rare",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Novembre", "Décembre"],
+        "heure": ["19:00:00", "04:00:00"],
+        "lieu": "Sol",
+        "prix": 8000
+    },
+    "insecte78": {
+        "nom": "Taupe-grillon",
+        "photo": "Taupe-grillon",
+        "rareté": "Commun",
+        "période": ["Janvier", "Février", "Mars", "Avril", "Mai", "Novembre", "Décembre"],
+        "heure": "All",
+        "lieu": "Sous la terre",
+        "prix": 500
+    },
+    "insecte79": {
+        "nom": "Troides alexandrae",
+        "photo": "Troides_alexandrae",
+        "rareté": "Rare",
+        "période": ["Mai", "Juin", "Juillet", "Août", "Septembre"],
+        "heure": ["08:00:00", "16:00:00"],
+        "lieu": "Ciel",
+        "prix": 4000
+    },
+    "insecte80": {
+        "nom": "Troides Brookiana",
+        "photo": "Troides_Brookiana",
+        "rareté": "Rare",
+        "période": ["Janvier", "Février", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Décembre"],
+        "heure": ["08:00:00", "17:00:00"],
+        "lieu": "Ciel",
+        "prix": 2500
+    }
+}

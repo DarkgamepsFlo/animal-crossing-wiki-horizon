@@ -1,0 +1,504 @@
+{
+    "dino1": {
+        "nom": "Acanthostéga",
+        "photo": "",
+        "parties": false,
+        "prix_total": 2000,
+        "salle": "S1"
+    },
+    "dino2": {
+        "nom": "Ptéranodon",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 4500
+            },
+            "partie2" : {
+                "nom": "Aile_D",
+                "prix": 4000
+            },
+            "partie3" : {
+                "nom": "Aile_G",
+                "prix": 4500
+            }
+        },
+        "prix_total": 13000,
+        "salle": "S2G"
+    },
+    "dino3": {
+        "nom": "Quetzalcoatlus",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 5000
+            },
+            "partie2" : {
+                "nom": "Aile_G",
+                "prix": 5000
+            },
+            "partie3" : {
+                "nom": "Aile_D",
+                "prix": 4500
+            }
+        },
+        "prix_total": 14500,
+        "salle": "S2G"
+    },
+    "dino4": {
+        "nom": "Ambre",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1200,
+        "salle": "S1"
+    },
+    "dino5": {
+        "nom": "Ammonite",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1100,
+        "salle": "S1"
+    },
+    "dino6": {
+        "nom": "Anomalocaris",
+        "photo": "",
+        "parties": false,
+        "prix_total": 2000,
+        "salle": "S1"
+    },
+    "dino7": {
+        "nom": "Archéoptéryx",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1300,
+        "salle": "S1"
+    },
+    "dino8": {
+        "nom": "Australopithèque",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1100,
+        "salle": "S1"
+    },
+    "dino9": {
+        "nom": "Brachiosaure",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Bassin",
+                "prix": 5000
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 6000
+            },
+            "partie3" : {
+                "nom": "Corps",
+                "prix": 5500
+            },
+            "partie4" : {
+                "nom": "Queue",
+                "prix": 5500
+            }
+        },
+        "prix_total": 22000,
+        "salle": "S2C"
+    },
+    "dino10": {
+        "nom": "Diplodocus",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Cou",
+                "prix": 4500
+            },
+            "partie2" : {
+                "nom": "Bassin",
+                "prix": 4500
+            },
+            "partie3" : {
+                "nom": "Crâne",
+                "prix": 5000
+            },
+            "partie4" : {
+                "nom": "Corps",
+                "prix": 4000
+            },
+            "partie5" : {
+                "nom": "Queue",
+                "prix": 5000
+            },
+            "partie6" : {
+                "nom": "Pointe de queue",
+                "prix": 4000
+            }
+        },
+        "prix_total": 27000,
+        "salle": "S2C"
+    },
+    "dino11": {
+        "nom": "Coprolithe",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1100,
+        "salle": "S2F"
+    },
+    "dino12": {
+        "nom": "Ophtalmosaure",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 2000
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 2500
+            }
+        },
+        "prix_total": 2000,
+        "salle": "S2G"
+    },
+    "dino13": {
+        "nom": "Brontotherium",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 3500
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 4500
+            },
+            "partie3" : {
+                "nom": "Queue",
+                "prix": 3000
+            }
+        },
+        "prix_total": 11000,
+        "salle": "S3"
+    },
+    "dino14": {
+        "nom": "Dimétrodon",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 5000
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 5500
+            }
+        },
+        "prix_total": 10500,
+        "salle": "S2D"
+    },
+    "dino15": {
+        "nom": "Mammouth",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 2500
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 3000
+            }
+        },
+        "prix_total": 5500,
+        "salle": "S3"
+    },
+    "dino16": {
+        "nom": "Plésiosaure",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 4500
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 4000
+            },
+            "partie3" : {
+                "nom": "Queue",
+                "prix": 4500
+            }
+        },
+        "prix_total": 2000,
+        "salle": "S2G"
+    },
+    "dino17": {
+        "nom": "Spinosaure",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": [5000, 3000]
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 4000
+            },
+            "partie3" : {
+                "nom": "Queue",
+                "prix": 2500
+            }
+        },
+        "prix_total": 11500,
+        "salle": "S2F"
+    },
+    "dino18": {
+        "nom": "Stégosaure",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 4500
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 5000
+            },
+            "partie3" : {
+                "nom": "Queue",
+                "prix": 4000
+            }
+        },
+        "prix_total": 9500,
+        "salle": "S2F"
+    },
+    "dino19": {
+        "nom": "Tricératops",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 5000
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 5500
+            },
+            "partie3" : {
+                "nom": "Queue",
+                "prix": 4500
+            }
+        },
+        "prix_total": 16000,
+        "salle": "S2F"
+    },
+    "dino20": {
+        "nom": "Tyrannosaure",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Corps",
+                "prix": 5000
+            },
+            "partie2" : {
+                "nom": "Crâne",
+                "prix": 6000
+            },
+            "partie3" : {
+                "nom": "Queue",
+                "prix": 5000
+            }
+        },
+        "prix_total": 16000,
+        "salle": "S2F"
+    },
+    "dino21": {
+        "nom": "Ankylosaure",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Crâne",
+                "prix": [5000, 3000]
+            },
+            "partie2" : {
+                "nom": "Queue",
+                "prix": 2500
+            },
+            "partie3" : {
+                "nom": "Corps",
+                "prix": 3000
+            }
+        },
+        "prix_total": 10500,
+        "salle": "S2G"
+    },
+    "dino22": {
+        "nom": "Archélon",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Crâne",
+                "prix": 4000
+            },
+            "partie2" : {
+                "nom": "Queue",
+                "prix": 3500
+            }
+        },
+        "prix_total": 7500,
+        "salle": "S2G"
+    },
+    "dino23": {
+        "nom": "Iguanodon",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Crâne",
+                "prix": 4000
+            },
+            "partie2" : {
+                "nom": "Queue",
+                "prix": 3000
+            },
+            "partie3" : {
+                "nom": "Corps",
+                "prix": 3500
+            }
+        },
+        "prix_total": 10500,
+        "salle": "S2F"
+    },
+    "dino24": {
+        "nom": "Pachycéphalosaure",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Crâne",
+                "prix": 4000
+            },
+            "partie2" : {
+                "nom": "Queue",
+                "prix": 3500
+            }
+        },
+        "prix_total": 2000,
+        "salle": "S2F"
+    },
+    "dino25": {
+        "nom": "Parasaurolophus",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Crâne",
+                "prix": 3500
+            },
+            "partie2" : {
+                "nom": "Queue",
+                "prix": 2500
+            },
+            "partie3" : {
+                "nom": "Corps",
+                "prix": 3000
+            }
+        },
+        "prix_total": 9000,
+        "salle": "S2F"
+    },
+    "dino26": {
+        "nom": "Smilodon",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Crâne",
+                "prix": [2500, 3000]
+            },
+            "partie2" : {
+                "nom": "Queue",
+                "prix": 2000
+            }
+        },
+        "prix_total": 4500,
+        "salle": "S3"
+    },
+    "dino27": {
+        "nom": "Dunkléostéus",
+        "photo": "",
+        "parties": false,
+        "prix_total": 3500,
+        "salle": "S1"
+    },
+    "dino28": {
+        "nom": "Empreinte de dinosaure",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1000,
+        "salle": "S2F"
+    },
+    "dino29": {
+        "nom": "Eusthénoptéron",
+        "photo": "",
+        "parties": false,
+        "prix_total": 2000,
+        "salle": "S1"
+    },
+    "dino30": {
+         "nom": "Juramaia",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1500,
+        "salle": "S2D"
+    },
+    "dino31": {
+        "nom": "Mandibule d’Hélicoprion",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1000,
+        "salle": "S1"
+    },
+    "dino32": {
+        "nom": "Myllokunmingia",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1500,
+        "salle": "S1"
+    },
+    "dino33": {
+        "nom": "Mégacéros",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Partie Droite",
+                "prix": 5500
+            },
+            "partie2" : {
+                "nom": "Partie Gauche",
+                "prix": 4000
+            }
+        },
+        "prix_total": 9500,
+        "salle": "S3"
+    },
+    "dino34": {
+        "nom": "Déinonychus",
+        "photo": "",
+        "parties": {
+            "partie1" : {
+                "nom": "Queue",
+                "prix": 2500
+            },
+            "partie2" : {
+                "nom": "Corps",
+                "prix": 3000
+            }
+        },
+        "prix_total": 2000,
+        "salle": "S2F"
+    },
+    "dino35": {
+        "nom": "Trilobite",
+        "photo": "",
+        "parties": false,
+        "prix_total": 1300,
+        "salle": "S1"
+    }
+}

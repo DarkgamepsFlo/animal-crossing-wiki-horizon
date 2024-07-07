@@ -1,0 +1,402 @@
+{
+    "sculptures" : {
+        "sculpture1": {
+            "nom": "Tête colossale",
+            "photo": "Tete_colossale",
+            "auteur": "",
+            "type": "Sculpture déterminée",
+            "details_faux": "Le personnage sourit",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture2": {
+            "nom": "Houmuwu Ding",
+            "photo": "Houmuwu_Ding",
+            "auteur": "",
+            "type": "Sculpture singulière",
+            "details_faux": "Il y a une anse sur le couvercle",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture3": {
+            "nom": "Discobole",
+            "photo": "Discobole_de_Myron_",
+            "auteur": "Myron",
+            "type": "Statue athlétique",
+            "details_faux": "L’athlète porte une montre à son poignet droit",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture4": {
+            "nom": "Vénus de Milo",
+            "photo": "Venus_de_Milo",
+            "auteur": "",
+            "type": "Statue féminine",
+            "details_faux": "La déesse porte un collier",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture5": {
+            "nom": "Statue du Mausolée de l’empereur Qin",
+            "photo": "Statue_du_Mausolee_de_l_empereur_Qin",
+            "auteur": "",
+            "type": "Statue guerrière",
+            "details_faux": "Le soldat tient une pelle",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture6": {
+            "nom": "Victoire de Samothrace",
+            "photo": "Victoire_de_Samothrace",
+            "auteur": "",
+            "type": "Statue héroïque",
+            "details_faux": "La déesse met sa jambe gauche en avant",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture7": {
+            "nom": "Roi Kamehameha Ier",
+            "photo": "Roi_Kamehameha_Ier_de_Thomas_Ridgeway_Gould",
+            "auteur": "Thomas Ridgeway Gould",
+            "type": "Statue imposante",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture8": {
+            "nom": "David",
+            "photo": "David_de_Michel-Ange",
+            "auteur": "Michel-Ange",
+            "type": "Statue majestueuse",
+            "details_faux": "L’homme tient un livre",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture9": {
+            "nom": "Louve Capitoline",
+            "photo": "Louve_Capitoline",
+            "auteur": "",
+            "type": "Statue maternelle",
+            "details_faux": "La louve tire la langue",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture10": {
+            "nom": "Buste de Néfertiti",
+            "photo": "Buste_de_Nefertiti_de_Thoutmosis",
+            "auteur": "Thoutmôsis",
+            "type": "Statue mystérieuse",
+            "details_faux": "Néfertiti porte une boucle d’oreille",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture11": {
+            "nom": "Le Penseur",
+            "photo": "Le_Penseur_d_Auguste_Rodin",
+            "auteur": "Auguste Rodin",
+            "type": "Statue pensive",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture12": {
+            "nom": "Shakōki-dogū",
+            "photo": "Shakoki-dogu",
+            "auteur": "",
+            "type": "Statuette antique",
+            "details_faux": "Le dogū a des antennes ou les yeux qui brillent",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "sculpture13": {
+            "nom": "Pierre de Rosette",
+            "photo": "Pierre_de_Rosette",
+            "auteur": "",
+            "type": "Tablette édifiante",
+            "details_faux": "La pierre est bleue",
+            "details_vrai": "",
+            "prix": 0
+        }
+    },
+    "tableaux" : {
+        "tableau1": {
+            "nom": "Homme de Vitruve",
+            "photo": "Homme_de_Vitruve_de_Leonard_de_Vinci",
+            "auteur": "Léonard de Vinci",
+            "type": "Toile académique",
+            "details_faux": "Tâche de café en haut à droite de l'image",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau2": {
+            "nom": "Un dimanche après-midi à l'île de la Grande Jatte",
+            "photo": "Un_dimanche_apres-midi_a_l_ile_de_la_Grande_Jatte_de_Georges_Seurat",
+            "auteur": "Georges Seurat",
+            "type": "Toile apaisante",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau3": {
+            "nom": "Un bar aux Folies Bergère",
+            "photo": "Un_bar_aux_Folies_Bergere_d_Edouard_Manet",
+            "auteur": "Edouard Manet",
+            "type": "Toile austère",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau4": {
+            "nom": "La Joconde",
+            "photo": "La_Joconde_de_Leonard_de_Vinci",
+            "auteur": "Léonard de Vinci",
+            "type": "Toile célèbre",
+            "details_faux": "Mona Lisa fronce les sourcils",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau5": {
+            "nom": "La Laitière",
+            "photo": "La_Laitiere_de_Johannes_Vermeer",
+            "auteur": "Johannes Vermeer",
+            "type": "Toile charmante",
+            "details_faux": "La laitière verse une plus grande quantité de lait",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau6": {
+            "nom": "L'Enfant en bleu",
+            "photo": "L_Enfant_en_bleu_de_Thomas_Gainsborough",
+            "auteur": "Thomas Gainsborough",
+            "type": "Toile classique",
+            "details_faux": "Le jeune homme a une frange",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau7": {
+            "nom": "Des glaneuses",
+            "photo": "Des_Glaneuses_de_Jean-Francois_Millet",
+            "auteur": "Jean-François Millet",
+            "type": "Toile commune",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau8": {
+            "nom": "Le Dernier Voyage du Téméraire",
+            "photo": "Le_Dernier_Voyage_du_Temeraire_de_Joseph_Mallord_William_Turner",
+            "auteur": "Joseph Mallord William Turner",
+            "type": "Toile crépustulaire",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau9": {
+            "nom": "La Grande Vague de Kanagawa",
+            "photo": "La_Grande_Vague_de_Kanagawa_de_Katsushika_Hokusai",
+            "auteur": "Katsushika Hokusai",
+            "type": "Toile déferlante",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau10": {
+            "nom": "Coq et poule avec hortensias",
+            "photo": "Coq_et_poule_avec_hortensias_de_Ito_Jakuchu",
+            "auteur": "Itō Jakuchū",
+            "type": "Toile détaillée",
+            "details_faux": "Hortensias violets",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau11": {
+            "nom": "Otani Onji II",
+            "photo": "",
+            "auteur": "Toshusai Sharaku",
+            "type": "Toile effrayante",
+            "details_faux": "Le personnage hausse les sourcils ou sourit",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau12": {
+            "nom": "La Naissance de Vénus",
+            "photo": "",
+            "auteur": "Sandro Botticelli",
+            "type": "Toile émouvante",
+            "details_faux": "Pas d’arbres à l’arrière-plan",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau13": {
+            "nom": "Les Tournesols",
+            "photo": "Vincent Van Gogh",
+            "auteur": "",
+            "type": "Toile florale",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau14": {
+            "nom": "Beauté se retournant",
+            "photo": "",
+            "auteur": "Hishikawa Moronobu",
+            "type": "Toile gracieuse",
+            "details_faux": "La femme est bien plus grande",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau15": {
+            "nom": "Chasseurs dans la neige",
+            "photo": "",
+            "auteur": "Pieter Brueghel l’Ancien",
+            "type": "Toile hivernale",
+            "details_faux": "Il y a moins de chiens et il manque un chasseur",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau16": {
+            "nom": "La Ronde de nuit",
+            "photo": "",
+            "auteur": "Rembrandt",
+            "type": "Toile incroyable",
+            "details_faux": "Le personnage en noir ne porte pas de chapeau",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau17": {
+            "nom": "Le Joueur de fifre",
+            "photo": "",
+            "auteur": "Edouard Manet",
+            "type": "Toile magnifique",
+            "details_faux": "",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau18": {
+            "nom": "La Jeune Fille à la perle",
+            "photo": "",
+            "auteur": "Johannes Vermeer",
+            "type": "Toile nacrée",
+            "details_faux": "La boucle d’oreille est une étoile ou la jeune fille ferme les yeux",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau19": {
+            "nom": "Corbeille de fruits",
+            "photo": "",
+            "auteur": "Caravage",
+            "type": "Toile neutre",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau20": {
+            "nom": "Nature morte aux pommes et aux oranges",
+            "photo": "",
+            "auteur": "Paul Cézanne",
+            "type": "Toile parfaite",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau21": {
+            "nom": "L’Eté",
+            "photo": "",
+            "auteur": "Giuseppe Arcimboldo",
+            "type": "Toile potagère",
+            "details_faux": "Pas d’artichaut sur la veste du personnage + la joue est une pêche jaune avec la fente tirée vers la gauche. OU VARIANTE : artichaut sur la veste du personnage n’a qu’une seule branche + la joue est une pêche jaune avec la fente tirée vers la gauche",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau22": {
+            "nom": "La Liberté guidant le peuple",
+            "photo": "",
+            "auteur": "Eugène Delacroix",
+            "type": "Toile précieuse",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau23": {
+            "nom": "Le Semeur",
+            "photo": "",
+            "auteur": "Jean-Fraçois Millet",
+            "type": "Toile puissante",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau24": {
+            "nom": "La Maja vêtue",
+            "photo": "",
+            "auteur": "Fransisco de Goya",
+            "type": "Toile radieuse",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau25": {
+            "nom": "Arearea",
+            "photo": "",
+            "auteur": "Paul Gauguin",
+            "type": "Toile réussie",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau26": {
+            "nom": "La Dame à l’hermine",
+            "photo": "",
+            "auteur": "Léonard de Vinci",
+            "type": "Toile royale",
+            "details_faux": "La femme tient un furet gris/brun",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau27": {
+            "nom": "Les dieux du tonnerre et du vent",
+            "photo": "",
+            "auteur": "Tawaraya Sōtatsu",
+            "type": "Toile sauvage",
+            "details_faux": "Le dieu clair est à droite et le dieu sombre à gauche",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau28": {
+            "nom": "La Nuit étoilée",
+            "photo": "",
+            "auteur": "Vincent Van Gogh",
+            "type": "Toile scintillante",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau29": {
+            "nom": "Les Ménines",
+            "photo": "",
+            "auteur": "Diego Velasquez",
+            "type": "Toile solennelle",
+            "details_faux": "Le personnage situé tout au fond lève la main",
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau30": {
+            "nom": "L’Île des Morts",
+            "photo": "",
+            "auteur": "Arnold Böcklin",
+            "type": "",
+            "details_faux": false,
+            "details_vrai": "",
+            "prix": 0
+        },
+        "tableau31": {
+            "nom": "Ophélie",
+            "photo": "",
+            "auteur": "John Everett Millais",
+            "type": "Toile tragique",
+            "details_faux": "",
+            "details_vrai": "Le tableau avec des fleurs roses est aussi considéré comme authentique",
+            "prix": 0
+        }
+    }
+}

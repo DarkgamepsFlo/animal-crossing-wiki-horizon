@@ -1,26 +1,29 @@
 {
     "dino1": {
         "nom": "Acanthostéga",
-        "photo": "",
+        "photo_entiere": "Acanthostega",
         "parties": false,
         "prix_total": 2000,
         "salle": "S1"
     },
     "dino2": {
         "nom": "Ptéranodon",
-        "photo": "",
+        "photo_entiere": "Pteranodon",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 4500
+                "prix": 4500,
+                "photo": ""
             },
             "partie2" : {
                 "nom": "Aile_D",
-                "prix": 4000
+                "prix": 4000,
+                "photo": "" 
             },
             "partie3" : {
                 "nom": "Aile_G",
-                "prix": 4500
+                "prix": 4500,
+                "photo": ""
             }
         },
         "prix_total": 13000,
@@ -28,19 +31,22 @@
     },
     "dino3": {
         "nom": "Quetzalcoatlus",
-        "photo": "",
+        "photo_entiere": "Quetzalcoatlus",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 5000
+                "prix": 5000,
+                "photo": ""
             },
             "partie2" : {
                 "nom": "Aile_G",
-                "prix": 5000
+                "prix": 5000,
+                "photo": ""
             },
             "partie3" : {
                 "nom": "Aile_D",
-                "prix": 4500
+                "prix": 4500,
+                "photo" : ""
             }
         },
         "prix_total": 14500,
@@ -48,58 +54,62 @@
     },
     "dino4": {
         "nom": "Ambre",
-        "photo": "",
+        "photo_entiere": "Ambre",
         "parties": false,
         "prix_total": 1200,
         "salle": "S1"
     },
     "dino5": {
         "nom": "Ammonite",
-        "photo": "",
+        "photo_entiere": "Ammonite",
         "parties": false,
         "prix_total": 1100,
         "salle": "S1"
     },
     "dino6": {
         "nom": "Anomalocaris",
-        "photo": "",
+        "photo_entiere": "Anomalocaris",
         "parties": false,
         "prix_total": 2000,
         "salle": "S1"
     },
     "dino7": {
         "nom": "Archéoptéryx",
-        "photo": "",
+        "photo_entiere": "Archeopteryx",
         "parties": false,
         "prix_total": 1300,
         "salle": "S1"
     },
     "dino8": {
         "nom": "Australopithèque",
-        "photo": "",
+        "photo_entiere": "Australopitheque",
         "parties": false,
         "prix_total": 1100,
         "salle": "S1"
     },
     "dino9": {
         "nom": "Brachiosaure",
-        "photo": "",
+        "photo_entiere": "Brachiosaure",
         "parties": {
             "partie1" : {
                 "nom": "Bassin",
-                "prix": 5000
+                "prix": 5000,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 6000
+                "prix": 6000,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Corps",
-                "prix": 5500
+                "prix": 5500,
+                "photo":""
             },
             "partie4" : {
                 "nom": "Queue",
-                "prix": 5500
+                "prix": 5500,
+                "photo":""
             }
         },
         "prix_total": 22000,
@@ -107,31 +117,37 @@
     },
     "dino10": {
         "nom": "Diplodocus",
-        "photo": "",
+        "photo_entiere": "Diplodocus",
         "parties": {
             "partie1" : {
                 "nom": "Cou",
-                "prix": 4500
+                "prix": 4500,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Bassin",
-                "prix": 4500
+                "prix": 4500,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Crâne",
-                "prix": 5000
+                "prix": 5000,
+                "photo":""
             },
             "partie4" : {
                 "nom": "Corps",
-                "prix": 4000
+                "prix": 4000,
+                "photo":""
             },
             "partie5" : {
                 "nom": "Queue",
-                "prix": 5000
+                "prix": 5000,
+                "photo":""
             },
             "partie6" : {
                 "nom": "Pointe de queue",
-                "prix": 4000
+                "prix": 4000,
+                "photo":""
             }
         },
         "prix_total": 27000,
@@ -139,22 +155,24 @@
     },
     "dino11": {
         "nom": "Coprolithe",
-        "photo": "",
+        "photo_entiere": "Coprolithe",
         "parties": false,
         "prix_total": 1100,
         "salle": "S2F"
     },
     "dino12": {
         "nom": "Ophtalmosaure",
-        "photo": "",
+        "photo_entiere": "Ophtalmosaure",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 2000
+                "prix": 2000,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 2500
+                "prix": 2500,
+                "photo":""
             }
         },
         "prix_total": 2000,
@@ -162,19 +180,22 @@
     },
     "dino13": {
         "nom": "Brontotherium",
-        "photo": "",
+        "photo_entiere": "Brontotherium",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 3500
+                "prix": 3500,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 4500
+                "prix": 4500,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Queue",
-                "prix": 3000
+                "prix": 3000,
+                "photo":""
             }
         },
         "prix_total": 11000,
@@ -182,15 +203,17 @@
     },
     "dino14": {
         "nom": "Dimétrodon",
-        "photo": "",
+        "photo_entiere": "Dimetrodon",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 5000
+                "prix": 5000,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 5500
+                "prix": 5500,
+                "photo":""
             }
         },
         "prix_total": 10500,
@@ -198,15 +221,17 @@
     },
     "dino15": {
         "nom": "Mammouth",
-        "photo": "",
+        "photo_entiere": "Mammouth",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 2500
+                "prix": 2500,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 3000
+                "prix": 3000,
+                "photo":""
             }
         },
         "prix_total": 5500,
@@ -214,19 +239,22 @@
     },
     "dino16": {
         "nom": "Plésiosaure",
-        "photo": "",
+        "photo_entiere": "Plesiosaure",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 4500
+                "prix": 4500,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 4000
+                "prix": 4000,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Queue",
-                "prix": 4500
+                "prix": 4500,
+                "photo":""
             }
         },
         "prix_total": 2000,
@@ -234,19 +262,22 @@
     },
     "dino17": {
         "nom": "Spinosaure",
-        "photo": "",
+        "photo_entiere": "Spinosaure",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": [5000, 3000]
+                "prix": [5000, 3000],
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 4000
+                "prix": 4000,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Queue",
-                "prix": 2500
+                "prix": 2500,
+                "photo":""
             }
         },
         "prix_total": 11500,
@@ -254,19 +285,22 @@
     },
     "dino18": {
         "nom": "Stégosaure",
-        "photo": "",
+        "photo_entiere": "Stegosaure",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 4500
+                "prix": 4500,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 5000
+                "prix": 5000,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Queue",
-                "prix": 4000
+                "prix": 4000,
+                "photo":""
             }
         },
         "prix_total": 9500,
@@ -274,19 +308,22 @@
     },
     "dino19": {
         "nom": "Tricératops",
-        "photo": "",
+        "photo_entiere": "Triceratops",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 5000
+                "prix": 5000,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 5500
+                "prix": 5500,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Queue",
-                "prix": 4500
+                "prix": 4500,
+                "photo":""
             }
         },
         "prix_total": 16000,
@@ -294,19 +331,22 @@
     },
     "dino20": {
         "nom": "Tyrannosaure",
-        "photo": "",
+        "photo_entiere": "Tyrannosaure",
         "parties": {
             "partie1" : {
                 "nom": "Corps",
-                "prix": 5000
+                "prix": 5000,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Crâne",
-                "prix": 6000
+                "prix": 6000,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Queue",
-                "prix": 5000
+                "prix": 5000,
+                "photo":""
             }
         },
         "prix_total": 16000,
@@ -314,19 +354,22 @@
     },
     "dino21": {
         "nom": "Ankylosaure",
-        "photo": "",
+        "photo_entiere": "Ankylosaure",
         "parties": {
             "partie1" : {
                 "nom": "Crâne",
-                "prix": [5000, 3000]
+                "prix": [5000, 3000],
+                "photo":""
             },
             "partie2" : {
                 "nom": "Queue",
-                "prix": 2500
+                "prix": 2500,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Corps",
-                "prix": 3000
+                "prix": 3000,
+                "photo":""
             }
         },
         "prix_total": 10500,
@@ -334,15 +377,17 @@
     },
     "dino22": {
         "nom": "Archélon",
-        "photo": "",
+        "photo_entiere": "Archelon",
         "parties": {
             "partie1" : {
                 "nom": "Crâne",
-                "prix": 4000
+                "prix": 4000,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Queue",
-                "prix": 3500
+                "prix": 3500,
+                "photo":""
             }
         },
         "prix_total": 7500,
@@ -350,19 +395,22 @@
     },
     "dino23": {
         "nom": "Iguanodon",
-        "photo": "",
+        "photo_entiere": "Iguanodon",
         "parties": {
             "partie1" : {
                 "nom": "Crâne",
-                "prix": 4000
+                "prix": 4000,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Queue",
-                "prix": 3000
+                "prix": 3000,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Corps",
-                "prix": 3500
+                "prix": 3500,
+                "photo":""
             }
         },
         "prix_total": 10500,
@@ -370,15 +418,17 @@
     },
     "dino24": {
         "nom": "Pachycéphalosaure",
-        "photo": "",
+        "photo_entiere": "Pachycephalosaure",
         "parties": {
             "partie1" : {
                 "nom": "Crâne",
-                "prix": 4000
+                "prix": 4000,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Queue",
-                "prix": 3500
+                "prix": 3500,
+                "photo":""
             }
         },
         "prix_total": 2000,
@@ -386,19 +436,22 @@
     },
     "dino25": {
         "nom": "Parasaurolophus",
-        "photo": "",
+        "photo_entiere": "Parasaurolophus",
         "parties": {
             "partie1" : {
                 "nom": "Crâne",
-                "prix": 3500
+                "prix": 3500,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Queue",
-                "prix": 2500
+                "prix": 2500,
+                "photo":""
             },
             "partie3" : {
                 "nom": "Corps",
-                "prix": 3000
+                "prix": 3000,
+                "photo":""
             }
         },
         "prix_total": 9000,
@@ -406,15 +459,17 @@
     },
     "dino26": {
         "nom": "Smilodon",
-        "photo": "",
+        "photo_entiere": "Smilodon",
         "parties": {
             "partie1" : {
                 "nom": "Crâne",
-                "prix": [2500, 3000]
+                "prix": [2500, 3000],
+                "photo":""
             },
             "partie2" : {
                 "nom": "Queue",
-                "prix": 2000
+                "prix": 2000,
+                "photo":""
             }
         },
         "prix_total": 4500,
@@ -422,57 +477,58 @@
     },
     "dino27": {
         "nom": "Dunkléostéus",
-        "photo": "",
-        "parties": false,
+        "photo_entiere": "Dunkleosteus",
         "prix_total": 3500,
         "salle": "S1"
     },
     "dino28": {
         "nom": "Empreinte de dinosaure",
-        "photo": "",
+        "photo_entiere": "Empreinte_de_dinosaure",
         "parties": false,
         "prix_total": 1000,
         "salle": "S2F"
     },
     "dino29": {
         "nom": "Eusthénoptéron",
-        "photo": "",
+        "photo_entiere": "Eusthenopteron",
         "parties": false,
         "prix_total": 2000,
         "salle": "S1"
     },
     "dino30": {
          "nom": "Juramaia",
-        "photo": "",
+        "photo_entiere": "Juramaia",
         "parties": false,
         "prix_total": 1500,
         "salle": "S2D"
     },
     "dino31": {
         "nom": "Mandibule d’Hélicoprion",
-        "photo": "",
+        "photo_entiere": "Mandibule_d_Helicoprion",
         "parties": false,
         "prix_total": 1000,
         "salle": "S1"
     },
     "dino32": {
         "nom": "Myllokunmingia",
-        "photo": "",
+        "photo_entiere": "Myllokunmingia",
         "parties": false,
         "prix_total": 1500,
         "salle": "S1"
     },
     "dino33": {
         "nom": "Mégacéros",
-        "photo": "",
+        "photo_entiere": "Megaceros",
         "parties": {
             "partie1" : {
                 "nom": "Partie Droite",
-                "prix": 5500
+                "prix": 5500,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Partie Gauche",
-                "prix": 4000
+                "prix": 4000,
+                "photo":""
             }
         },
         "prix_total": 9500,
@@ -480,15 +536,17 @@
     },
     "dino34": {
         "nom": "Déinonychus",
-        "photo": "",
+        "photo_entiere": "Deinonychus",
         "parties": {
             "partie1" : {
                 "nom": "Queue",
-                "prix": 2500
+                "prix": 2500,
+                "photo":""
             },
             "partie2" : {
                 "nom": "Corps",
-                "prix": 3000
+                "prix": 3000,
+                "photo":""
             }
         },
         "prix_total": 2000,
@@ -496,7 +554,7 @@
     },
     "dino35": {
         "nom": "Trilobite",
-        "photo": "",
+        "photo_entiere": "Trilobite",
         "parties": false,
         "prix_total": 1300,
         "salle": "S1"

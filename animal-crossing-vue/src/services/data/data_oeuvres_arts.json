@@ -7,7 +7,7 @@
             "type": "Sculpture déterminée",
             "details_faux": "Le personnage sourit",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture2": {
             "nom": "Houmuwu Ding",
@@ -16,7 +16,7 @@
             "type": "Sculpture singulière",
             "details_faux": "Il y a une anse sur le couvercle",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture3": {
             "nom": "Discobole",
@@ -25,7 +25,7 @@
             "type": "Statue athlétique",
             "details_faux": "L’athlète porte une montre à son poignet droit",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture4": {
             "nom": "Vénus de Milo",
@@ -34,7 +34,7 @@
             "type": "Statue féminine",
             "details_faux": "La déesse porte un collier",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture5": {
             "nom": "Statue du Mausolée de l’empereur Qin",
@@ -43,7 +43,7 @@
             "type": "Statue guerrière",
             "details_faux": "Le soldat tient une pelle",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture6": {
             "nom": "Victoire de Samothrace",
@@ -52,7 +52,7 @@
             "type": "Statue héroïque",
             "details_faux": "La déesse met sa jambe gauche en avant",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture7": {
             "nom": "Roi Kamehameha Ier",
@@ -61,7 +61,7 @@
             "type": "Statue imposante",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture8": {
             "nom": "David",
@@ -70,7 +70,7 @@
             "type": "Statue majestueuse",
             "details_faux": "L’homme tient un livre",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture9": {
             "nom": "Louve Capitoline",
@@ -79,7 +79,7 @@
             "type": "Statue maternelle",
             "details_faux": "La louve tire la langue",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture10": {
             "nom": "Buste de Néfertiti",
@@ -88,7 +88,7 @@
             "type": "Statue mystérieuse",
             "details_faux": "Néfertiti porte une boucle d’oreille",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture11": {
             "nom": "Le Penseur",
@@ -97,7 +97,7 @@
             "type": "Statue pensive",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture12": {
             "nom": "Shakōki-dogū",
@@ -106,7 +106,7 @@
             "type": "Statuette antique",
             "details_faux": "Le dogū a des antennes ou les yeux qui brillent",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "sculpture13": {
             "nom": "Pierre de Rosette",
@@ -115,7 +115,7 @@
             "type": "Tablette édifiante",
             "details_faux": "La pierre est bleue",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         }
     },
     "tableaux" : {
@@ -126,7 +126,7 @@
             "type": "Toile académique",
             "details_faux": "Tâche de café en haut à droite de l'image",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau2": {
             "nom": "Un dimanche après-midi à l'île de la Grande Jatte",
@@ -135,7 +135,7 @@
             "type": "Toile apaisante",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau3": {
             "nom": "Un bar aux Folies Bergère",
@@ -144,7 +144,7 @@
             "type": "Toile austère",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau4": {
             "nom": "La Joconde",
@@ -153,7 +153,7 @@
             "type": "Toile célèbre",
             "details_faux": "Mona Lisa fronce les sourcils",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau5": {
             "nom": "La Laitière",
@@ -162,7 +162,7 @@
             "type": "Toile charmante",
             "details_faux": "La laitière verse une plus grande quantité de lait",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau6": {
             "nom": "L'Enfant en bleu",
@@ -171,7 +171,7 @@
             "type": "Toile classique",
             "details_faux": "Le jeune homme a une frange",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau7": {
             "nom": "Des glaneuses",
@@ -180,7 +180,7 @@
             "type": "Toile commune",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau8": {
             "nom": "Le Dernier Voyage du Téméraire",
@@ -189,7 +189,7 @@
             "type": "Toile crépustulaire",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau9": {
             "nom": "La Grande Vague de Kanagawa",
@@ -198,7 +198,7 @@
             "type": "Toile déferlante",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau10": {
             "nom": "Coq et poule avec hortensias",
@@ -207,196 +207,196 @@
             "type": "Toile détaillée",
             "details_faux": "Hortensias violets",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau11": {
             "nom": "Otani Onji II",
-            "photo": "",
+            "photo": "Otani_Onji_II_de_Toshusai_Sharaku",
             "auteur": "Toshusai Sharaku",
             "type": "Toile effrayante",
             "details_faux": "Le personnage hausse les sourcils ou sourit",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau12": {
             "nom": "La Naissance de Vénus",
-            "photo": "",
+            "photo": "La_Naissance_de_Venus_de_Sandro_Botticelli",
             "auteur": "Sandro Botticelli",
             "type": "Toile émouvante",
             "details_faux": "Pas d’arbres à l’arrière-plan",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau13": {
             "nom": "Les Tournesols",
-            "photo": "Vincent Van Gogh",
-            "auteur": "",
+            "photo": "Les_Tournesols_de_Vincent_van_Gogh",
+            "auteur": "Vincent Van Gogh",
             "type": "Toile florale",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau14": {
             "nom": "Beauté se retournant",
-            "photo": "",
+            "photo": "Beaute_se_retournant_de_Hishikawa_Moronobu",
             "auteur": "Hishikawa Moronobu",
             "type": "Toile gracieuse",
             "details_faux": "La femme est bien plus grande",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau15": {
             "nom": "Chasseurs dans la neige",
-            "photo": "",
+            "photo": "Chasseurs_dans_la_neige_de_Pieter_Brueghel_l_Ancien",
             "auteur": "Pieter Brueghel l’Ancien",
             "type": "Toile hivernale",
             "details_faux": "Il y a moins de chiens et il manque un chasseur",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau16": {
             "nom": "La Ronde de nuit",
-            "photo": "",
+            "photo": "La_Ronde_de_nuit_de_Rembrandt",
             "auteur": "Rembrandt",
             "type": "Toile incroyable",
             "details_faux": "Le personnage en noir ne porte pas de chapeau",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau17": {
             "nom": "Le Joueur de fifre",
-            "photo": "",
+            "photo": "Le_joueur_de_fifre_d_Edouard_Manet",
             "auteur": "Edouard Manet",
             "type": "Toile magnifique",
-            "details_faux": "",
+            "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau18": {
             "nom": "La Jeune Fille à la perle",
-            "photo": "",
+            "photo": "La_Jeune_Fille_a_la_perle_de_Johannes_Vermeer",
             "auteur": "Johannes Vermeer",
             "type": "Toile nacrée",
             "details_faux": "La boucle d’oreille est une étoile ou la jeune fille ferme les yeux",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau19": {
             "nom": "Corbeille de fruits",
-            "photo": "",
+            "photo": "Corbeille_de_fruits_de_Caravage",
             "auteur": "Caravage",
             "type": "Toile neutre",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau20": {
             "nom": "Nature morte aux pommes et aux oranges",
-            "photo": "",
+            "photo": "Nature_morte_aux_pommes_et_aux_oranges_de_Paul_Cezanne",
             "auteur": "Paul Cézanne",
             "type": "Toile parfaite",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau21": {
             "nom": "L’Eté",
-            "photo": "",
+            "photo": "L_Ete_de_Giuseppe_Arcimboldo",
             "auteur": "Giuseppe Arcimboldo",
             "type": "Toile potagère",
             "details_faux": "Pas d’artichaut sur la veste du personnage + la joue est une pêche jaune avec la fente tirée vers la gauche. OU VARIANTE : artichaut sur la veste du personnage n’a qu’une seule branche + la joue est une pêche jaune avec la fente tirée vers la gauche",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau22": {
             "nom": "La Liberté guidant le peuple",
-            "photo": "",
+            "photo": "La_Liberte_guidant_le_peuple_d_Eugene_Delacroix",
             "auteur": "Eugène Delacroix",
             "type": "Toile précieuse",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau23": {
             "nom": "Le Semeur",
-            "photo": "",
+            "photo": "Le_Semeur_de_Jean-Francois_Millet",
             "auteur": "Jean-Fraçois Millet",
             "type": "Toile puissante",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau24": {
             "nom": "La Maja vêtue",
-            "photo": "",
+            "photo": "La_Maja_vetue_de_Fransisco_de_Goya",
             "auteur": "Fransisco de Goya",
             "type": "Toile radieuse",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau25": {
             "nom": "Arearea",
-            "photo": "",
+            "photo": "Arearea_de_Paul_Gauguin",
             "auteur": "Paul Gauguin",
             "type": "Toile réussie",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau26": {
             "nom": "La Dame à l’hermine",
-            "photo": "",
+            "photo": "La_Dame_a_l_hermine_de_Leonard_de_Vinci",
             "auteur": "Léonard de Vinci",
             "type": "Toile royale",
             "details_faux": "La femme tient un furet gris/brun",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau27": {
             "nom": "Les dieux du tonnerre et du vent",
-            "photo": "",
+            "photo": "Les_dieux_du_tonnerre_et_du_vent_de_Tawaraya_Sotatsu",
             "auteur": "Tawaraya Sōtatsu",
             "type": "Toile sauvage",
             "details_faux": "Le dieu clair est à droite et le dieu sombre à gauche",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau28": {
             "nom": "La Nuit étoilée",
-            "photo": "",
+            "photo": "La_Nuit_etoilee_de_Vincent_Van_Gogh",
             "auteur": "Vincent Van Gogh",
             "type": "Toile scintillante",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau29": {
             "nom": "Les Ménines",
-            "photo": "",
+            "photo": "Les_Menines_de_Diego_Velasquez",
             "auteur": "Diego Velasquez",
             "type": "Toile solennelle",
             "details_faux": "Le personnage situé tout au fond lève la main",
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau30": {
             "nom": "L’Île des Morts",
-            "photo": "",
+            "photo": "L_Ile_des_Morts_d_Arnold_Bocklin",
             "auteur": "Arnold Böcklin",
             "type": "",
             "details_faux": false,
             "details_vrai": "",
-            "prix": 0
+            "prix": 4980
         },
         "tableau31": {
             "nom": "Ophélie",
-            "photo": "",
+            "photo": "Ophelie_de_John_Everett_Millais",
             "auteur": "John Everett Millais",
             "type": "Toile tragique",
             "details_faux": "",
             "details_vrai": "Le tableau avec des fleurs roses est aussi considéré comme authentique",
-            "prix": 0
+            "prix": 4980
         }
     }
 }

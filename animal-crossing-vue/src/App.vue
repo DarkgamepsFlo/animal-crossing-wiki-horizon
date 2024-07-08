@@ -1,15 +1,22 @@
 <template>
+  <VotezDewey></VotezDewey>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <VotezDewey2></VotezDewey2>
+  <HelloWorld msg="Coucou"/>
+  
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/HelloWorld.vue';
+import VotezDewey from './components/VotezDewey.vue';
+import VotezDewey2 from './components/VotezDewey2/VotezDewey2.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    VotezDewey,
+    VotezDewey2
   }
 }
 </script>
